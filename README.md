@@ -7,11 +7,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yukti-payak18/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:payakyukti2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/yukti-payak"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=yukti-payak&color=0e75b6&style=flat" alt="Profile views"/>
 </div>
 
 ---
@@ -76,8 +76,8 @@ Passionate **MERN Stack Developer** specializing in building robust, scalable fu
 ## 🚀 Featured Projects
 
 ### 📊 ZenTrade - Financial Data Visualization Platform
-[![GitHub](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/zentrade)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://your-zentrade-link.vercel.app)
+[![GitHub](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yukti-payak/Frontend-)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://frontend-zeta-eight-43.vercel.app/)
 
 A comprehensive financial analytics dashboard providing real-time data visualization and secure user authentication for trading insights.
 
@@ -116,8 +116,8 @@ A comprehensive financial analytics dashboard providing real-time data visualiza
 ---
 
 ### 🏨 TravelNest - Travel Booking Platform
-[![GitHub](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/travelnest)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://your-travelnest-link.vercel.app)
+[![GitHub](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yukti-payak/TravelNest)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://wanderlust-q6td.onrender.com/)
 
 A feature-rich travel booking platform with integrated mapping, real-time weather data, and dynamic nature imagery for enhanced user experience.
 
@@ -241,7 +241,7 @@ I'm always open to discussing new opportunities, collaborations, or tech convers
 
 <div align="center">
   
-**⭐ From [Yukti Payak](https://github.com/yourusername) | Building the web, one commit at a time**
+**⭐ From [Yukti Payak](https://github.com/yukti-payak) | Building the web, one commit at a time**
 
 </div>
 
