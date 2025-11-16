@@ -241,7 +241,7 @@ I'm always open to discussing new opportunities, collaborations, or tech convers
 
 <div align="center">
   
-**⭐ From [Yukti Payak](https://github.com/yukti-payak) | Building the web, one commit at a time**
+**⭐ From [Yukti Payak](https://github.com/yukti-payak)**
 
 </div>
 
