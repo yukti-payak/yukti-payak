@@ -1,104 +1,158 @@
-<!-- Typing SVG -->
+# Hi there, I'm Yukti Payak 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Building+Scalable+Web+Applications;Open+To+New+Opportunities" alt="Typing SVG" />
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Yukti+Payak+👋;MERN+Stack+Developer;Full+Stack+Web+Developer;Passionate+About+Building+Modern+Web+Apps" />
+  <a href="https://www.linkedin.com/in/yukti-payak18/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:payakyukti2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
 
-## 🚀 About Me  
-I'm **Yukti Payak**, a dedicated **MERN Stack Developer** passionate about building dynamic, scalable, and efficient web applications.  
-I specialize in crafting clean UI/UX, building secure RESTful APIs, and deploying full-stack applications with modern tools.
+## 👨‍💻 About Me
 
-🔍 Currently seeking: **MERN Stack Developer roles**  
-💡 Focus: Clean architecture, secure APIs, cloud deployment  
-📍 Based in India
+```javascript
+const yukti = {
+    role: "MERN Stack Developer",
+    location: "India",
+    currentFocus: "Building full-stack web applications",
+    careerGoal: "Seeking opportunities as a MERN Stack Developer",
+    interests: ["Web Development", "API Integration", "Cloud Deployment"],
+    lifePhilosophy: "Code with purpose, deploy with confidence"
+};
+```
+
+🔭 I'm currently working on **scalable MERN stack applications**  
+🌱 I'm constantly learning **new technologies and best practices**  
+💼 I'm actively **looking for MERN Stack Developer opportunities**  
+💬 Ask me about **React, Node.js, MongoDB, and RESTful APIs**  
+⚡ Fun fact: **I love building projects that solve real-world problems**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
+### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
 </p>
 
-### **Backend & Database**
+### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
-### **Tools**
+### Tools & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-### **Deployment**
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,render" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
 </p>
 
 ---
 
-## 📌 Featured Projects  
+## 🚀 Featured Projects
 
-### 🚀 **ZenTrade**
-A Zerodha-inspired stock trading platform built with a decoupled three-tier MERN architecture.
+### 📊 [ZenTrade](https://github.com/yourusername/zentrade)
+> A comprehensive financial data visualization platform with secure authentication
 
-**Key Highlights:**  
-- Three-tier isolated architecture  
-- Interactive dashboard using **React + Chart.js** (real-time financial data)  
-- Custom REST API with **10+ endpoints** for users, transactions, and stock info  
-- Secure authentication using **JWT + Bcrypt**  
-- Fully responsive UI  
-- **Deployed:** Frontend on *Vercel*, Backend on *Render*
+**Architecture:** Decoupled three-tier MERN stack  
+**Key Features:**
+- 📈 Interactive dashboard using React and Chart.js for real-time financial data visualization
+- 🔐 Custom-built RESTful API with 10+ endpoints
+- 🛡️ Secure authentication using JWT and Bcrypt
+- ☁️ Deployed on Vercel (Frontend) & Render (Backend)
 
-🔗 *Demo & Code Links can be added here when ready*
-
----
-
-### 🌿 **TravelNest**
-A scalable property rental platform following the **MVC pattern** using MERN stack.
-
-**Key Highlights:**  
-- Intelligent search features (title, category, location filters)  
-- Dynamic **Nature Snapshot** section using real-time weather + imagery  
-- Integrated APIs:  
-  - **Mapbox** → live maps  
-  - **OpenWeather** → real-time weather  
-  - **Unsplash** → location-based imagery  
-- Highly interactive UI
-
-🔗 *Add deployment platform link here (Vercel/Render/Netlify)*
+**Tech Stack:** `React` `Node.js` `Express` `MongoDB` `Chart.js` `JWT`
 
 ---
 
-## 📊 GitHub Stats  
+### 🏨 [TravelNest](https://github.com/yourusername/travelnest)
+> A feature-rich travel booking platform with real-time weather and location services
+
+**Architecture:** MERN stack implementing MVC (Model-View-Controller) design  
+**Key Features:**
+- 🔍 Multi-faceted search functionality
+- 🌿 Dynamic "Nature Snapshot" feature
+- 🗺️ Integrated Mapbox API for interactive maps
+- 🌤️ OpenWeather API for real-time weather data
+- 📸 Unsplash API for high-quality imagery
+- ☁️ Deployed on Vercel & Render
+
+**Tech Stack:** `React` `Node.js` `Express` `MongoDB` `Mapbox` `OpenWeather` `Unsplash`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🎯 Career Goals
+
+```javascript
+const careerObjective = {
+    seeking: "MERN Stack Developer Position",
+    expertise: ["Full-Stack Development", "RESTful APIs", "Cloud Deployment"],
+    strengths: ["Problem Solving", "Clean Code", "Team Collaboration"],
+    readyTo: "Contribute to innovative projects and grow with a dynamic team"
+};
+```
+
+---
+
+## 📫 Let's Connect!
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuktiPayak&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuktiPayak&theme=tokyonight" height="160" />
+  <a href="https://www.linkedin.com/in/yukti-payak18/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:payakyukti2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
----
-
-## 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YuktiPayak&theme=tokyo-night" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+</div>
 
 ---
 
-## 📬 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/yukti-payak18/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="mailto:payakyukti2003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
 
----
+<div align="center">
+  
+### ⭐ From [Yukti Payak](https://github.com/yukti-payak)
 
-## 💡 Fun Fact  
-I love turning ideas into working products and crafting clean UI + reliable backend systems.
-
----
-
-⭐ **Feel free to explore my repositories and connect with me!**  
+</div>
 
