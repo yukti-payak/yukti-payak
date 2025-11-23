@@ -22,7 +22,7 @@ I'm a **Full-Stack Developer** specializing in the **MERN stack**, with a passio
 
 <table>
 <tr>
-<td width="50%" valign="top"> **Technical Expertise**
+<td width="50%" valign="top"> Technical Expertise
 <ul>
   <li>Full-stack MERN development</li>
   <li>RESTful API design & implementation</li>
@@ -31,7 +31,7 @@ I'm a **Full-Stack Developer** specializing in the **MERN stack**, with a passio
 </ul>
 
 </td>
-<td width="50%" valign="top"> **Development Philosophy**
+<td width="50%" valign="top"> Development Philosophy
 <ul>
   <li>Clean, maintainable code architecture</li>
   <li>Test-driven development practices</li>
