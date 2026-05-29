@@ -136,20 +136,7 @@ Travel platform with mapping, weather data, and dynamic imagery integration.
 </tr>
 </table>
 
----
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/yukti-payak?theme=tokyonight" alt="Yukti Payak's GitHub Contribution Graph" />
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukti-payak&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
-
-
-
-
----
 
 ## 📫 Let's Connect
 
